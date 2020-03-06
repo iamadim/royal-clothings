@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/royal-clothings/static/css/main.53172fbd.chunk.css",
+    "main.js": "/royal-clothings/static/js/main.5d385b30.chunk.js",
+    "main.js.map": "/royal-clothings/static/js/main.5d385b30.chunk.js.map",
+    "runtime-main.js": "/royal-clothings/static/js/runtime-main.3b288d1a.js",
+    "runtime-main.js.map": "/royal-clothings/static/js/runtime-main.3b288d1a.js.map",
+    "static/js/2.bde98980.chunk.js": "/royal-clothings/static/js/2.bde98980.chunk.js",
+    "static/js/2.bde98980.chunk.js.map": "/royal-clothings/static/js/2.bde98980.chunk.js.map",
+    "index.html": "/royal-clothings/index.html",
+    "precache-manifest.b26fdf05c333a874481df838589fcd4b.js": "/royal-clothings/precache-manifest.b26fdf05c333a874481df838589fcd4b.js",
+    "service-worker.js": "/royal-clothings/service-worker.js",
+    "static/css/main.53172fbd.chunk.css.map": "/royal-clothings/static/css/main.53172fbd.chunk.css.map",
+    "static/js/2.bde98980.chunk.js.LICENSE.txt": "/royal-clothings/static/js/2.bde98980.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b288d1a.js",
+    "static/js/2.bde98980.chunk.js",
+    "static/css/main.53172fbd.chunk.css",
+    "static/js/main.5d385b30.chunk.js"
+  ]
+}
